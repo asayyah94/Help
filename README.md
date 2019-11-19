@@ -15,3 +15,7 @@
  EasyToast
  SwiftSpinner
  Cosmos
+
+ It has a PHP backend server that calls Google and Yelp APIs for navigation, reviews and other info. 
+ 
+ I have been using AWS as backend infrustructure.
